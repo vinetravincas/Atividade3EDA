@@ -1,0 +1,16 @@
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\bin\Debug\net5.0\ArvoreBinaria.exe
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\bin\Debug\net5.0\ArvoreBinaria.deps.json
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\bin\Debug\net5.0\ArvoreBinaria.runtimeconfig.json
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\bin\Debug\net5.0\ArvoreBinaria.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\bin\Debug\net5.0\ArvoreBinaria.dll
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\bin\Debug\net5.0\ref\ArvoreBinaria.dll
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\bin\Debug\net5.0\ArvoreBinaria.pdb
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\obj\Debug\net5.0\ArvoreBinaria.csprojAssemblyReference.cache
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\obj\Debug\net5.0\ArvoreBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\obj\Debug\net5.0\ArvoreBinaria.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\obj\Debug\net5.0\ArvoreBinaria.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\obj\Debug\net5.0\ArvoreBinaria.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\obj\Debug\net5.0\ArvoreBinaria.dll
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\obj\Debug\net5.0\ref\ArvoreBinaria.dll
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\obj\Debug\net5.0\ArvoreBinaria.pdb
+C:\Users\vinic\OneDrive\Documentos\GitHub\Atividade3EDA\obj\Debug\net5.0\ArvoreBinaria.genruntimeconfig.cache
